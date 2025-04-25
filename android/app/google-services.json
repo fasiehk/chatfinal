@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "298144012264",
+    "firebase_url": "https://labchatapp-baa62-default-rtdb.firebaseio.com",
+    "project_id": "labchatapp-baa62",
+    "storage_bucket": "labchatapp-baa62.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298144012264:android:3c5b7762aa79559357b65d",
+        "android_client_info": {
+          "package_name": "com.example.chat1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq10wxvnT_4wpW5L9QChgWHLE1dyIO3Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298144012264:android:faddab97b4d4888757b65d",
+        "android_client_info": {
+          "package_name": "com.example.chatfinal"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq10wxvnT_4wpW5L9QChgWHLE1dyIO3Tw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
